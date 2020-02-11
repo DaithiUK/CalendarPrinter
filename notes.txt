@@ -1,0 +1,14 @@
+20200211
+
+Goal: Make a printable calendar html page because the sites I've used provide 
+Word and PDF files and I think it should just be browser based.
+
+Additional: Add a customisation bar for style, and settings which I don't need 
+but might be helpful to others like start of week.
+
+Start by grabbing htmlboilerplate from https://html5boilerplate.com/ or #
+https://github.com/h5bp/html5-boilerplate since I'm out of date.
+
+Seems like the boiler plate is overkill for such a simple task but it's a good 
+starting point and I can remove what I don't need.
+
